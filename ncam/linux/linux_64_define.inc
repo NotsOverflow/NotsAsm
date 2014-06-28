@@ -4,7 +4,7 @@
       Email: Labruillere gmail.com                         / ||  /            |\
       website: notsgnik.github.io                         /  || /             |\
       License: GPL v3                                    /___||/              |\
-      																		  |\
+                                                                              |\
 ------------------------------------------------------------------------------|
 
 %define	v0r		rax
