@@ -1,3 +1,12 @@
+;----------------------------------------------------------------------------|\
+                                                              _____           |\
+      Autor: Notsgnik                                       /||   /           |\
+      Email: Labruillere gmail.com                         / ||  /            |\
+      website: notsgnik.github.io                         /  || /             |\
+      License: GPL v3                                    /___||/              |\
+      																		  |\
+------------------------------------------------------------------------------|
+
 ; everything is to do
 	extern _GetStdHandle@4
 	extern _WriteConsoleA@20

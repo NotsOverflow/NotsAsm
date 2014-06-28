@@ -1,11 +1,12 @@
 ;----------------------------------------------------------------------------|\
-                                                              _____           |                \
-      Autor: Notsgnik                                       /||   /           |          \
-      Email: Labruillere gmail.com                         / ||  /            |         \
-      website: notsgnik.github.io                         /  || /             |         \
-      License: GPL v3                                    /___||/              |           \
-      																		  |                     \
-------------------------------------------------------------------------------
+                                                              _____           |\
+      Autor: Notsgnik                                       /||   /           |\
+      Email: Labruillere gmail.com                         / ||  /            |\
+      website: notsgnik.github.io                         /  || /             |\
+      License: GPL v3                                    /___||/              |\
+      																		  |\
+------------------------------------------------------------------------------|
+
 %define _LINUX64_
 
 %include	'ncam/core.inc'

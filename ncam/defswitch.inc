@@ -1,3 +1,11 @@
+;----------------------------------------------------------------------------|\
+                                                              _____           |\
+      Autor: Notsgnik                                       /||   /           |\
+      Email: Labruillere gmail.com                         / ||  /            |\
+      website: notsgnik.github.io                         /  || /             |\
+      License: GPL v3                                    /___||/              |\
+      																		  |\
+------------------------------------------------------------------------------|
 
 %ifdef		_LINUX64_
 	%ifndef		_SYS_INCLUDE_DONE_

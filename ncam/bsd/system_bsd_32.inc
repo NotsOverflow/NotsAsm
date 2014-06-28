@@ -1,3 +1,12 @@
+;----------------------------------------------------------------------------|\
+                                                              _____           |\
+      Autor: Notsgnik                                       /||   /           |\
+      Email: Labruillere gmail.com                         / ||  /            |\
+      website: notsgnik.github.io                         /  || /             |\
+      License: GPL v3                                    /___||/              |\
+      																		  |\
+------------------------------------------------------------------------------|
+
 ;evrything is to do
 	%define	stdin		0
 	%define	stdout		1
