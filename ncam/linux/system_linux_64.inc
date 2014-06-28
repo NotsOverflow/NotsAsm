@@ -4,7 +4,7 @@
       Email: Labruillere gmail.com                         / ||  /            |\
       website: notsgnik.github.io                         /  || /             |\
       License: GPL v3                                    /___||/              |\
-      																		  |\
+                                                                              |\
 ------------------------------------------------------------------------------|
 
 %include	'ncam/linux/linux_64_define.inc'
